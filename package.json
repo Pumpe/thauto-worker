@@ -1,6 +1,6 @@
 {
   "name": "thauto-worker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "base on weflow F2E auto project, project init and create about folders",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "devDependencies": {
     "mocha": "^2.5.3"
   },
-  "bin":{
-    "thauto-worker":"index.js"
+  "bin": {
+    "thauto-worker": "index.js"
   }
 }
