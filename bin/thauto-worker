@@ -1,0 +1,2 @@
+var autoWorkder = require('./index.js');
+autoWorkder();
