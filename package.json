@@ -1,0 +1,27 @@
+{
+    "name": "thauto-worker",
+    "version": "1.0.0",
+    "description": "base on weflow F2E auto project, project init and create about folders",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pumpe/thauto-worker.git"
+    },
+    "keywords": [
+        "F2E",
+        "node",
+        "卡车之家"
+    ],
+    "dependencies": {
+        "mocha" : "1.18.2"
+    },
+    "author": "Pumpe",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Pumpe/thauto-worker/issues"
+    },
+    "homepage": "https://github.com/Pumpe/thauto-worker#readme"
+}
