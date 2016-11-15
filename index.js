@@ -1,5 +1,5 @@
 /**
- * base on weflow cons
+ * @description base on weflow constrcut F2E project folders
  * @authors ZP (zhanpeng.zhu@360che.com)
  * @date    2016-06-18 14:36:31
  * @version 1.0
